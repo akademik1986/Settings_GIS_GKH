@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:v8="http://v8.1c.ru/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+			<Ref>b94f1470-330e-11e6-8683-00155d62161c</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>000000016</Code>
+			<Description>ПУ</Description>
+			<КаталогДляФайлов>b94f1470-330e-11e6-8683-00155d62161c</КаталогДляФайлов>
+			<КоличествоЗаписейВФайле>1000</КоличествоЗаписейВФайле>
+			<ПрефиксФайлаВыгрузки>ПУ</ПрефиксФайлаВыгрузки>
+			<Шаблон>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</Шаблон>
+			<ШаблонЗагружен>true</ШаблонЗагружен>
+			<СоответствиеПолей/>
+			<КолонкиРезультата/>
+			<ЗависимыеЛисты/>
+		</CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+		<CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+			<Ref>0076a902-330f-11e6-8683-00155d62161c</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>b94f1470-330e-11e6-8683-00155d62161c</Parent>
+			<Code>000000017</Code>
+			<Description>Сведения о ПУ</Description>
+			<АлгоритмАнализаРезультатаОбработки>0076a902-330f-11e6-8683-00155d62161c|uid|АлгоритмАнализаРезультатаОбработки_ИнициализироватьРезультатКонтекста(КонтекстВыполнения);</АлгоритмАнализаРезультатаОбработки>
+			<АлгоритмОбработкиКолонкиПередЗаписью/>
+			<АлгоритмПолученияДанных>МенеджерВременныхТаблиц = КонтекстВыполнения.МенеджерВременныхТаблиц ; 
+
+
+   // ПАРАМЕТРЫ РЕГИОНОВ
+   
+  //Необходимо перечислить все виды догворов которые планируется выгружать в ГИС ЖКХ.
+  //Если в базе только один вид договора его все равно необходимо указать.
+  ВидыДоговоров = Новый СписокЗначений;
+  ВидыДоговоров.Добавить(Справочники.ВидыДоговоров.НайтиПоКоду("000000003"));
+  
+	// Тип здания индивидуальный
+	ТипЗданияМногоквартирныйДом   = Справочники.ТипыЗданий.НайтиПоКоду("000000001");
+	
+	// Свойства ИД ГИС ЖКХ абонентов
+	Свойство_ИД_ГИСЖКХ_Помещения = ПланыВидовХарактеристик.СвойстваОбъектов.ИД_ГИСЖКХ_Помещение;
+	Свойство_ИД_ГИСЖКХ_Комнаты = ПланыВидовХарактеристик.СвойстваОбъектов.ИД_ГИСЖКХ_Комната;
+	
+  //Для анализа будут отобраны только те договоры у которых: Договор.УслугаНаселению В (&amp;УслугиДоговоров) 
+  //По умолчанию отбираются договора на предопределенной услуге "ГазоснабжениеПрироднымГазом" в данной настройке
+  //можно указать любую другую услугу (или услуги) которые в вашей БД считаются газоснабжением и договора по которым вы 
+  //считаете нужным отражать в ГИС ЖКХ.
+  УслугиДоговоров = Новый СписокЗначений;
+  УслугиДоговоров.Добавить(Справочники.УслугиНаселению.ГазоснабжениеПрироднымГазом);
+    
+  Запрос = Новый Запрос;
+  Запрос.МенеджерВременныхТаблиц = МенеджерВременныхТаблиц ; 
+
+  Запрос.УстановитьПараметр("ВидыДоговоров",ВидыДоговоров);     
+  Запрос.УстановитьПараметр("УслугиДоговоров",УслугиДоговоров);   
+
+  /////////////////////////////////////////////////////////////////////////////////////
+   
+  //Стандартные параметры
+  Запрос.УстановитьПараметр("ПоВсемАбонентам",КонтекстВыполнения.ПоВсемАбонентам);
+  Запрос.УстановитьПараметр("СписокАбонентов",КонтекстВыполнения.СписокАбонентов);
+  Запрос.УстановитьПараметр("Подразделение",КонтекстВыполнения.Подразделение);
+  Запрос.УстановитьПараметр("КонецУчетногоМесяц",КонецМесяца(Расчеты.ПолучитьАктуальныйРасчетныйПериод(КонтекстВыполнения.Подразделение)));
+  Запрос.УстановитьПараметр("УчетныйМесяц",Расчеты.ПолучитьАктуальныйРасчетныйПериод(КонтекстВыполнения.Подразделение));
+  
+  ///////////////////////////////////////////////////////////////////////////////////////////////
+  
+  Запрос.Текст = "
+  |ВЫБРАТЬ
+  |	0 КАК НачалоПериода,
+  |	1.49 КАК КонецПериода,
+  |	""1 год"" КАК НаименованиеГИСЖКХ
+  |ПОМЕСТИТЬ Вт_СрокиМежповерочногоИнтервала
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	1.5,
+  |	2.49,
+  |	""2 года""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	2.5,
+  |	3.49,
+  |	""3 года""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	3.5,
+  |	4.49,
+  |	""4 года""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	4.5,
+  |	5.49,
+  |	""5 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	5.5,
+  |	6.49,
+  |	""6 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	6.5,
+  |	7.49,
+  |	""7 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	7.5,
+  |	8.49,
+  |	""8 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	8.5,
+  |	9.49,
+  |	""9 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	9.5,
+  |	10.49,
+  |	""10 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	10.5,
+  |	11.49,
+  |	""11 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	11.5,
+  |	12.49,
+  |	""12 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	12.5,
+  |	13.49,
+  |	""13 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	13.5,
+  |	14.49,
+  |	""14 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	14.5,
+  |	15.49,
+  |	""15 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	15.5,
+  |	16.49,
+  |	""16 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	16.5,
+  |	17.49,
+  |	""17 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	17.5,
+  |	18.49,
+  |	""18 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	18.5,
+  |	19.49,
+  |	""19 лет""
+  |
+  |ОБЪЕДИНИТЬ ВСЕ
+  |
+  |ВЫБРАТЬ
+  |	19.5,
+  |	20.49,
+  |	""20 лет""
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ
+  |	ПодразделенияАбонентовСрезПоследних.Абонент
+  |ПОМЕСТИТЬ ВТ_АбонентыПодразделения
+  |ИЗ
+  |	РегистрСведений.ПодразделенияАбонентов.СрезПоследних(
+  |			,
+  |			&amp;ПоВсемАбонентам
+  |				ИЛИ Абонент В (&amp;СписокАбонентов)) КАК ПодразделенияАбонентовСрезПоследних
+  |ГДЕ
+  |	ПодразделенияАбонентовСрезПоследних.Подразделение = &amp;Подразделение
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ
+  |	ВЫРАЗИТЬ(СостояниеДоговораСрезПоследних.Договор.Владелец КАК Справочник.Абоненты) КАК Абонент
+  |ПОМЕСТИТЬ ВТ_АбонентыСДействующимиДоговорами
+  |ИЗ
+  |	РегистрСведений.СостояниеДоговора.СрезПоследних(
+  |			,
+  |			Договор.Владелец В
+  |					(ВЫБРАТЬ
+  |						ВТ_АбонентыПодразделения.Абонент
+  |					ИЗ
+  |						ВТ_АбонентыПодразделения КАК ВТ_АбонентыПодразделения)
+  |				И НЕ Договор.ПометкаУдаления
+  |				И Договор.Владелец ССЫЛКА Справочник.Абоненты
+  |				И УчетныйМесяц &lt;= &amp;УчетныйМесяц
+  |				И ДатаНачала &lt;= &amp;КонецУчетногоМесяц
+  |				И Договор.ВидДоговора В (&amp;ВидыДоговоров)
+  |				И ВЫРАЗИТЬ(Договор.Владелец КАК Справочник.Абоненты).ВладелецЛС ССЫЛКА Справочник.ФизическиеЛица
+  |				И Договор.УслугаНаселению В (&amp;УслугиДоговоров)) КАК СостояниеДоговораСрезПоследних
+  |ГДЕ
+  |	ВЫБОР
+  |			КОГДА СостояниеДоговораСрезПоследних.СостояниеДоговора В (ЗНАЧЕНИЕ(Перечисление.СостоянияДоговоров.Заключен), ЗНАЧЕНИЕ(Перечисление.СостоянияДоговоров.Пролонгирован))
+  |					И (СостояниеДоговораСрезПоследних.ДатаОкончания = ДАТАВРЕМЯ(1, 1, 1)
+  |						ИЛИ СостояниеДоговораСрезПоследних.ДатаОкончания &gt;= &amp;КонецУчетногоМесяц)
+  |				ТОГДА ИСТИНА
+  |			ИНАЧЕ ЛОЖЬ
+  |		КОНЕЦ = ИСТИНА
+  |	И ВЫРАЗИТЬ(СостояниеДоговораСрезПоследних.Договор.Владелец КАК Справочник.Абоненты).ВладелецЛС ССЫЛКА Справочник.ФизическиеЛица
+  |
+  |СГРУППИРОВАТЬ ПО
+  |	ВЫРАЗИТЬ(СостояниеДоговораСрезПоследних.Договор.Владелец КАК Справочник.Абоненты)";
+   
+ Запрос.Выполнить();
+ 
+ 
+ 
+ мОтбор = Новый Массив;   
+ ДатаСреза = КонецМесяца(Расчеты.ПолучитьАктуальныйРасчетныйПериод(КонтекстВыполнения.Подразделение));
+ мОтбор.Добавить(Новый Структура("ИмяПараметра,ЗнакСравнения,ЗначениеПараметра","Оборудование.ИзмерительноеОборудование","=",Истина));	
+ мОтбор.Добавить(Новый Структура("ИмяПараметра,ЗнакСравнения,ЗначениеПараметра","Оборудование.ГрупповоеОборудование","=",Ложь));	
+ мОтбор.Добавить(Новый Структура("ИмяПараметра,ЗнакСравнения,ЗначениеПараметра,ИмяВременнойТаблицы","Абонент","В","Абонент","ВТ_АбонентыСДействующимиДоговорами"));	
+
+ РегистрыСведений.УстановленноеОборудование.СрезПоследнихПринимаемыхКУчетуВоВременнуюТаблицу(ДатаСреза, мОтбор, МенеджерВременныхТаблиц);		
+ 
+ Запрос.Текст = "ВЫБРАТЬ
+ |	*
+ |ПОМЕСТИТЬ ДействующиеОборудование
+ |ИЗ
+ |	СП_ПКУ_УстановленноеОборудование КАК СП_ПКУ_УстановленноеОборудование
+
+ |		Где  СП_ПКУ_УстановленноеОборудование.Действует;";
+ Запрос.Выполнить();
+ 
+ мОтбор = Новый Массив();    
+ мОтбор.Добавить(Новый Структура("ИмяПараметра,ЗнакСравнения,ЗначениеПараметра,ИмяВременнойТаблицы","Объект","В","Оборудование","ДействующиеОборудование"));		
+ мОтбор.Добавить(Новый Структура("ИмяПараметра,ЗнакСравнения,ЗначениеПараметра","Идентификатор","=",ПланыВидовХарактеристик.ПараметрыОборудования.ПоследняяПоверка));
+ 
+ РегистрыСведений.ПараметрыОборудования.СрезПоследнихПринимаемыхКУчетуВоВременнуюТаблицу(ДатаСреза, мОтбор, МенеджерВременныхТаблиц);
+ 
+ мОтбор = Новый Массив;    
+ мОтбор.Добавить(Новый Структура("ИмяПараметра,ЗнакСравнения,ЗначениеПараметра,ИмяВременнойТаблицы","Оборудование","В","Оборудование","ДействующиеОборудование"));
+ РегистрыСведений.ПоказанияСчетчиков.СрезПоследнихПринимаемыхКУчетуВоВременнуюТаблицу(ДатаСреза, мОтбор,МенеджерВременныхТаблиц);	
+ 
+ Запрос.УстановитьПараметр("СвойствоИДГИСЖКХПомещения", Свойство_ИД_ГИСЖКХ_Помещения);
+ Запрос.УстановитьПараметр("ТипЗданияМногоквартирныйДом", ТипЗданияМногоквартирныйДом);
+ Запрос.УстановитьПараметр("СвойствоИДГИСЖКХКомнаты", Свойство_ИД_ГИСЖКХ_Комнаты);
+ Запрос.УстановитьПараметр("Подразделение",КонтекстВыполнения.Подразделение);
+ Запрос.Текст = "
+ |УНИЧТОЖИТЬ ПКУ_ПоказанияСчетчиков
+ |;
+ |
+ |////////////////////////////////////////////////////////////////////////////////
+ |ВЫБРАТЬ
+ |	УстановленноеОборудование.Оборудование,
+ |	МИНИМУМ(УстановленноеОборудование.Период) КАК ДатаВводаВЭксплуатацию
+ |ПОМЕСТИТЬ Вт_ДатаВводаВЭксплуатацию
+ |ИЗ
+ |	РегистрСведений.УстановленноеОборудование КАК УстановленноеОборудование
+ |		ВНУТРЕННЕЕ СОЕДИНЕНИЕ ДействующиеОборудование КАК ДействующиеОборудование
+ |		ПО УстановленноеОборудование.Оборудование = ДействующиеОборудование.Оборудование
+ |			И (УстановленноеОборудование.Действует)
+ |
+ |СГРУППИРОВАТЬ ПО
+ |	УстановленноеОборудование.Оборудование
+ |;
+ |
+ |////////////////////////////////////////////////////////////////////////////////
+ |ВЫБРАТЬ
+ |	ВЫРАЗИТЬ(ДействующиеОборудование.Абонент КАК Справочник.Абоненты) КАК Абонент,
+ |	ВЫРАЗИТЬ(ДействующиеОборудование.Оборудование КАК Справочник.Оборудование) КАК Оборудование,
+ |	ДействующиеОборудование.период КАК ДатаУстановки,
+ |	ДействующиеОборудование.Оборудование.Модель.ПериодичностьПоверки / 12 КАК ПериодичностьПоверки,
+ |	ДействующиеОборудование.Абонент.Здание.ИД_ГИСЖКХ КАК КодДомаГИСЖКХ,
+ |	ВЫБОР
+ |		КОГДА НЕ ДействующиеОборудование.Абонент.Здание.ТипЗдания В (&amp;ТипЗданияМногоквартирныйДом)
+ |			ТОГДА ""Индивидуальный""
+ |		КОГДА ЕСТЬNULL(ДействующиеОборудование.Абонент.Комната, """") = """"
+ |			ТОГДА ""Общий (квартирный)""
+ |		ИНАЧЕ ""Комнатный""
+ |	КОНЕЦ КАК ТипПУ,
+ |	ДействующиеОборудование.Оборудование.ЗаводскойНомер КАК ЗаводскойНомер,
+ |	ПРЕДСТАВЛЕНИЕ(ДействующиеОборудование.Оборудование.Модель) КАК МодельПредставление,
+ |	ЕСТЬNULL(ДействующиеОборудование.Абонент.Наименование, """") КАК АбонентНаименование,
+ |	ДействующиеОборудование.Абонент.ИД_ГИСЖКХ КАК ИД_ГИСЖКХ_Абонента
+ |ПОМЕСТИТЬ Вт_ОборудованиеСАдресами
+ |ИЗ
+ |	ДействующиеОборудование КАК ДействующиеОборудование
+ |;
+ |
+ |////////////////////////////////////////////////////////////////////////////////
+ |ВЫБРАТЬ
+ |	ЕСТЬNULL(Вт_ОборудованиеСАдресами.АбонентНаименование, """") КАК Абонент,
+ |	Вт_ОборудованиеСАдресами.Оборудование КАК ПУ,
+ |	Вт_ОборудованиеСАдресами.ЗаводскойНомер КАК НомерПУ,
+ |	Вт_ОборудованиеСАдресами.ТипПУ КАК ТипПУ,
+ |	Вт_ОборудованиеСАдресами.МодельПредставление КАК МаркаПУ,
+ |	""Да"" КАК ПризнакСдачиПоказаний,
+ |	""Газ"" КАК ВидРесурса,
+ |	""Однотарифный"" КАК КоличествоТарифов,
+ |	ЕСТЬNULL(СП_ПКУ_ПоказанияСчетчиков.Значение, 0) КАК БазовоеПоказание,
+ |	Вт_СрокиМежповерочногоИнтервала.НаименованиеГИСЖКХ КАК МежповерочныйИнтервал,
+ |	ВЫРАЗИТЬ(ВЫБОР
+ |			КОГДА ЕСТЬNULL(СП_ПКУ_ПараметрыОборудования.Значение, ДАТАВРЕМЯ(1, 1, 1, 0, 0, 0)) = ДАТАВРЕМЯ(1, 1, 1, 0, 0, 0)
+ |				ТОГДА ЕСТЬNULL(Вт_ОборудованиеСАдресами.Оборудование.ДатаВыпуска, ДАТАВРЕМЯ(1, 1, 1, 0, 0, 0))
+ |			ИНАЧЕ ЕСТЬNULL(СП_ПКУ_ПараметрыОборудования.Значение, ДАТАВРЕМЯ(1, 1, 1, 0, 0, 0))
+ |		КОНЕЦ КАК ДАТА) КАК ДатаПервичнойПоверки,
+ |	Вт_ОборудованиеСАдресами.ДатаУстановки,
+ |	Вт_ДатаВводаВЭксплуатацию.ДатаВводаВЭксплуатацию,
+ |	ВЫБОР
+ |		КОГДА Вт_ОборудованиеСАдресами.ТипПУ = ""Общий (квартирный)""
+ |			ТОГДА ВЫРАЗИТЬ(ЕСТЬNULL(ЗначенияСвойствОбъектовСрезПоследнихПомещение.Значение, """") КАК СТРОКА)
+ |		ИНАЧЕ """"
+ |	КОНЕЦ КАК ИД_ГИСЖКХ_Помещения,
+ |	&amp;Подразделение КАК Подразделение,
+ |	ВЫБОР
+ |		КОГДА Вт_ОборудованиеСАдресами.ТипПУ = ""Индивидуальный""
+ |			ТОГДА Вт_ОборудованиеСАдресами.КодДомаГИСЖКХ
+ |		ИНАЧЕ """"
+ |	КОНЕЦ КАК КодДомаГИСЖКХ,
+ |	ВЫБОР
+ |		КОГДА Вт_ОборудованиеСАдресами.ТипПУ = ""Комнатный""
+ |			ТОГДА ВЫРАЗИТЬ(ЕСТЬNULL(ЗначенияСвойствОбъектовСрезПоследнихКомната.Значение, """") КАК СТРОКА)
+ |		ИНАЧЕ """"
+ |	КОНЕЦ КАК ИД_ГИСЖКХ_Комнаты,
+ |	ЕСТЬNULL(Вт_ОборудованиеСАдресами.Абонент, ЗНАЧЕНИЕ(Справочник.Абоненты.ПустаяСсылка)) КАК АбонентСсылка,
+ |	"""" КАК НомерГИСЖКХ
+ |ПОМЕСТИТЬ Вт_ГИСЖКХ_ПУ_Сведения
+ |ИЗ
+ |	Вт_ОборудованиеСАдресами КАК Вт_ОборудованиеСАдресами
+ |		ЛЕВОЕ СОЕДИНЕНИЕ СП_ПКУ_ПоказанияСчетчиков КАК СП_ПКУ_ПоказанияСчетчиков
+ |		ПО Вт_ОборудованиеСАдресами.Оборудование = СП_ПКУ_ПоказанияСчетчиков.Оборудование
+ |		ЛЕВОЕ СОЕДИНЕНИЕ СП_ПКУ_ПараметрыОборудования КАК СП_ПКУ_ПараметрыОборудования
+ |		ПО Вт_ОборудованиеСАдресами.Оборудование = СП_ПКУ_ПараметрыОборудования.Объект
+ |		ВНУТРЕННЕЕ СОЕДИНЕНИЕ Вт_ДатаВводаВЭксплуатацию КАК Вт_ДатаВводаВЭксплуатацию
+ |		ПО Вт_ОборудованиеСАдресами.Оборудование = Вт_ДатаВводаВЭксплуатацию.Оборудование
+ |		ВНУТРЕННЕЕ СОЕДИНЕНИЕ Вт_СрокиМежповерочногоИнтервала КАК Вт_СрокиМежповерочногоИнтервала
+ |		ПО Вт_ОборудованиеСАдресами.ПериодичностьПоверки &gt;= Вт_СрокиМежповерочногоИнтервала.НачалоПериода
+ |			И Вт_ОборудованиеСАдресами.ПериодичностьПоверки &lt;= Вт_СрокиМежповерочногоИнтервала.КонецПериода
+ |		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.ЗначенияСвойствОбъектов.СрезПоследних КАК ЗначенияСвойствОбъектовСрезПоследнихПомещение
+ |		ПО (ЗначенияСвойствОбъектовСрезПоследнихПомещение.Свойство = &amp;СвойствоИДГИСЖКХПомещения)
+ |			И Вт_ОборудованиеСАдресами.Абонент = ЗначенияСвойствОбъектовСрезПоследнихПомещение.Объект
+ |		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.ЗначенияСвойствОбъектов.СрезПоследних КАК ЗначенияСвойствОбъектовСрезПоследнихКомната
+ |		ПО (ЗначенияСвойствОбъектовСрезПоследнихКомната.Свойство = &amp;СвойствоИДГИСЖКХКомнаты)
+ |			И Вт_ОборудованиеСАдресами.Абонент = ЗначенияСвойствОбъектовСрезПоследнихКомната.Объект
+ |;
+ |
+ |////////////////////////////////////////////////////////////////////////////////
+ |ВЫБРАТЬ
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ПУ КАК ПУ,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.НомерПУ,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ТипПУ,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.МаркаПУ,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ПризнакСдачиПоказаний,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ВидРесурса,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.КоличествоТарифов,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.БазовоеПоказание,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.МежповерочныйИнтервал,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ДатаПервичнойПоверки,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ДатаУстановки,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ДатаВводаВЭксплуатацию,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.Подразделение,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.КодДомаГИСЖКХ КАК КодДомаПоФИАС,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ИД_ГИСЖКХ_Помещения,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.ИД_ГИСЖКХ_Комнаты,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.Абонент,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.АбонентСсылка,
+ |	Вт_ГИСЖКХ_ПУ_Сведения.НомерГИСЖКХ
+ |ИЗ
+ |	Вт_ГИСЖКХ_ПУ_Сведения КАК Вт_ГИСЖКХ_ПУ_Сведения";
+ Результат = Запрос.Выполнить().Выгрузить();</АлгоритмПолученияДанных>
+			<АлгоритмПолученияДанныхДляВыгрузкиВEXCEL>КонтекстВыполнения.ЗаписываемаяСтрока.БазовоеПоказание = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.БазовоеПоказание, "ЧГ=");
+КонтекстВыполнения.ЗаписываемаяСтрока.ДатаВводаВЭксплуатацию = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.ДатаВводаВЭксплуатацию, "ДФ='MM-dd-yyyy'");
+КонтекстВыполнения.ЗаписываемаяСтрока.ДатаПервичнойПоверки = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.ДатаПервичнойПоверки, "ДФ='MM-dd-yyyy'");
+КонтекстВыполнения.ЗаписываемаяСтрока.ДатаУстановки = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.ДатаУстановки, "ДФ='MM-dd-yyyy'");</АлгоритмПолученияДанныхДляВыгрузкиВEXCEL>
+			<АлгоритмПослеСравненияДанных/>
+			<АлгоритмПроверкиОшибок/>
+			<АлгоритмСравненияДанных/>
+			<ИмяРегистраДляГИСЖКХ>ГИСЖКХ_ПУ_Сведения</ИмяРегистраДляГИСЖКХ>
+			<НаименованиеЛистаВФайле>Сведения о ПУ</НаименованиеЛистаВФайле>
+			<НачальнаяСтрокаXLS>2</НачальнаяСтрокаXLS>
+			<ПорядокЗаполнения>1</ПорядокЗаполнения>
+			<ИмяПоляОбъекта>ПУ</ИмяПоляОбъекта>
+			<ИмяРеквизита/>
+			<НомерКолонкиИДВерсииОбъектаВГИСЖКХ>0</НомерКолонкиИДВерсииОбъектаВГИСЖКХ>
+			<СоответствиеПолей>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Подразделение</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Абонент</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>АбонентССылка</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ПУ</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>true</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>НомерПУ</ПолеРегистра>
+					<КолонкаШаблона>1</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ТипПУ</ПолеРегистра>
+					<КолонкаШаблона>2</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>МаркаПУ</ПолеРегистра>
+					<КолонкаШаблона>3</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>КодДомаПоФИАС</ПолеРегистра>
+					<КолонкаШаблона>4</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ИД_ГИСЖКХ_Помещения</ПолеРегистра>
+					<КолонкаШаблона>5</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>НомерГИСЖКХ</ПолеРегистра>
+					<КолонкаШаблона>7</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ПризнакСдачиПоказаний</ПолеРегистра>
+					<КолонкаШаблона>8</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ВидРесурса</ПолеРегистра>
+					<КолонкаШаблона>9</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>КоличествоТарифов</ПолеРегистра>
+					<КолонкаШаблона>10</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>БазовоеПоказание</ПолеРегистра>
+					<КолонкаШаблона>11</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ДатаУстановки</ПолеРегистра>
+					<КолонкаШаблона>14</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ДатаВводаВЭксплуатацию</ПолеРегистра>
+					<КолонкаШаблона>15</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ДатаПервичнойПоверки</ПолеРегистра>
+					<КолонкаШаблона>16</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>МежповерочныйИнтервал</ПолеРегистра>
+					<КолонкаШаблона>17</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ИД_ГИСЖКХ_Комнаты</ПолеРегистра>
+					<КолонкаШаблона>6</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+			</СоответствиеПолей>
+			<КолонкиРезультата>
+				<Row>
+					<НомерКолонки>18</НомерКолонки>
+					<ИмяКолонки>СтатусОбработки</ИмяКолонки>
+				</Row>
+			</КолонкиРезультата>
+			<ЗависимыеЛисты/>
+		</CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+	</V8Exch:Data>
+</V8Exch:_1CV8DtUD>
