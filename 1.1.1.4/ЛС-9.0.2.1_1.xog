@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:v8="http://v8.1c.ru/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+			<Ref>dddfb8a6-fbff-47b9-829d-c2d926b69f86</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>000000025</Code>
+			<Description>ЛС-9.0.2.1</Description>
+			<КаталогДляФайлов>dddfb8a6-fbff-47b9-829d-c2d926b69f86</КаталогДляФайлов>
+			<КоличествоЗаписейВФайле>1000</КоличествоЗаписейВФайле>
+			<ПрефиксФайлаВыгрузки>ЛС</ПрефиксФайлаВыгрузки>
+			<Шаблон>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</Шаблон>
+			<ШаблонЗагружен>true</ШаблонЗагружен>
+			<СоответствиеПолей/>
+			<КолонкиРезультата/>
+			<ЗависимыеЛисты/>
+			<ДополнительныеПоля/>
+		</CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+		<CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+			<Ref>662c252c-355b-46dd-bc53-9082ab2a8236</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>dddfb8a6-fbff-47b9-829d-c2d926b69f86</Parent>
+			<Code>000000026</Code>
+			<Description>ОсновныеСведения</Description>
+			<АлгоритмАнализаРезультатаОбработки>662c252c-355b-46dd-bc53-9082ab2a8236|uid|АлгоритмАнализаРезультатаОбработки_ИнициализироватьРезультатКонтекста(КонтекстВыполнения, "ЕдиныйЛицевойСчет");</АлгоритмАнализаРезультатаОбработки>
+			<АлгоритмОбработкиКолонкиПередЗаписью/>
+			<АлгоритмПолученияДанных>Запрос = Новый Запрос;
+Запрос.МенеджерВременныхТаблиц = КонтекстВыполнения.МенеджерВременныхТаблиц; 
+
+// ПАРАМЕТРЫ РЕГИОНОВ
+
+//Необходимо перечислить все виды догворов которые планируется выгружать в ГИС ЖКХ.
+//Если в базе только один вид договора его все равно необходимо указать.
+ВидыДоговоров = Новый СписокЗначений;
+ВидыДоговоров.Добавить(Справочники.ВидыДоговоров.НайтиПоКоду("000000001"));
+
+
+//Для анализа будут отобраны только те договоры у которых: Договор.УслугаНаселению В (&amp;УслугиДоговоров) 
+//По умолчанию отбираются договора на предопределенной услуге "ГазоснабжениеПрироднымГазом" в данной настройке
+//можно указать любую другую услугу (или услуги) которые в вашей БД считаются газоснабжением и договора по которым вы 
+//считаете нужным отражать в ГИС ЖКХ.
+УслугиДоговоров = Новый СписокЗначений;
+УслугиДоговоров.Добавить(Справочники.УслугиНаселению.ГазоснабжениеПрироднымГазом);
+
+
+//Указывается элемент справочника ДокументыУдостоверяющиеЛичность для получения данных по документам
+ВидДокументаФизЛицаПаспорт = Новый СписокЗначений;  
+ВидДокументаФизЛицаПаспорт.Добавить(Справочники.ДокументыУдостоверяющиеЛичность.ПаспортРФ);
+
+//Указывается параметр или список отвечающий за Жилую площадь
+ЖилаяПлощадь = Новый СписокЗначений;  
+ЖилаяПлощадь.Добавить(ПланыВидовХарактеристик.ПараметрыАбонентовДляРасчета.ПлощадьЖилая);
+
+//Указывается параметр или список отвечающий за количество проживающих
+КоличествоПроживающих = Новый СписокЗначений;  
+КоличествоПроживающих.Добавить(ПланыВидовХарактеристик.ПараметрыАбонентовДляРасчета.КоличествоПроживающих);
+
+//Указывается параметр или список отвечающий за Общую площадь
+ОбщаяПлощадь = Новый СписокЗначений;  
+ОбщаяПлощадь.Добавить(ПланыВидовХарактеристик.ПараметрыАбонентовДляРасчета.ПлощадьЖилая);
+ОбщаяПлощадь.Добавить(ПланыВидовХарактеристик.ПараметрыАбонентовДляРасчета.ПлощадьНеЖилая);
+
+//Указывается параметр или список отвечающий за Отапливаемую площадь
+ОтапливаемаяПлощадь = Новый СписокЗначений;  
+ОтапливаемаяПлощадь.Добавить(ПланыВидовХарактеристик.ПараметрыАбонентовДляРасчета.ПлощадьЖилая);
+
+//Необходимо указать свойство в котором хранится значение документа СНИСЛ абонента 
+СвойствоСНИЛС = ПланыВидовХарактеристик.СвойстваОбъектов.НайтиПоКоду("000001539");
+
+
+Запрос.УстановитьПараметр("ВидДокументаФизЛицаПаспорт",ВидДокументаФизЛицаПаспорт);   
+Запрос.УстановитьПараметр("ВидыДоговоров",ВидыДоговоров);     
+Запрос.УстановитьПараметр("УслугиДоговоров",УслугиДоговоров);   
+Запрос.УстановитьПараметр("СвойствоСНИЛС",СвойствоСНИЛС);
+Запрос.УстановитьПараметр("ЖилаяПлощадь",ЖилаяПлощадь);
+Запрос.УстановитьПараметр("КоличествоПроживающих",КоличествоПроживающих);
+Запрос.УстановитьПараметр("ОбщаяПлощадь",ОбщаяПлощадь);
+Запрос.УстановитьПараметр("ОтапливаемаяПлощадь",ОтапливаемаяПлощадь);
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+//Стандартные параметры
+Запрос.УстановитьПараметр("ПоВсемАбонентам",КонтекстВыполнения.ПоВсемАбонентам);
+Запрос.УстановитьПараметр("СписокАбонентов",КонтекстВыполнения.СписокАбонентов);
+Запрос.УстановитьПараметр("ВидКонтактнойИнформацииАдресАбонента",Справочники.ВидыКонтактнойИнформации.АдресАбонента);
+Запрос.УстановитьПараметр("Подразделение",КонтекстВыполнения.Подразделение);
+Запрос.УстановитьПараметр("КонецУчетногоМесяц",КонецМесяца(Расчеты.ПолучитьАктуальныйРасчетныйПериод(КонтекстВыполнения.Подразделение)));
+Запрос.УстановитьПараметр("УчетныйМесяц",Расчеты.ПолучитьАктуальныйРасчетныйПериод(КонтекстВыполнения.Подразделение));
+Запрос.УстановитьПараметр("ИД_ГИСЖКХ_ПолныйАдрес", ПланыВидовХарактеристик.СвойстваОбъектов.ИД_ГИСЖКХ_ПолныйАдрес);
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+
+  Запрос.Текст = "
+  |ВЫБРАТЬ
+  |	ПодразделенияАбонентовСрезПоследних.Абонент
+  |ПОМЕСТИТЬ ВТ_АбонентыПодразделения
+  |ИЗ
+  |	РегистрСведений.ПодразделенияАбонентов.СрезПоследних(
+  |			,
+  |			&amp;ПоВсемАбонентам
+  |				ИЛИ Абонент В (&amp;СписокАбонентов)) КАК ПодразделенияАбонентовСрезПоследних
+  |ГДЕ
+  |	ПодразделенияАбонентовСрезПоследних.Подразделение = &amp;Подразделение
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ
+  |	ВЫРАЗИТЬ(СостояниеДоговораСрезПоследних.Договор.Владелец КАК Справочник.Абоненты) КАК Абонент,
+  |	ВЫРАЗИТЬ(СостояниеДоговораСрезПоследних.Договор.Владелец КАК Справочник.Абоненты).ВладелецЛС КАК ФизЛицо
+  |ПОМЕСТИТЬ ВТ_АбонентыСДействующимиДоговорами
+  |ИЗ
+  |	РегистрСведений.СостояниеДоговора.СрезПоследних(
+  |			,
+  |			Договор.Владелец В
+  |					(ВЫБРАТЬ
+  |						ВТ_АбонентыПодразделения.Абонент
+  |					ИЗ
+  |						ВТ_АбонентыПодразделения КАК ВТ_АбонентыПодразделения)
+  |				И НЕ Договор.ПометкаУдаления
+  |				И Договор.Владелец ССЫЛКА Справочник.Абоненты
+  |				И УчетныйМесяц &lt;= &amp;УчетныйМесяц
+  |				И ДатаНачала &lt;= &amp;КонецУчетногоМесяц
+  |				И Договор.ВидДоговора В (&amp;ВидыДоговоров)
+  |				И ВЫРАЗИТЬ(Договор.Владелец КАК Справочник.Абоненты).ВладелецЛС ССЫЛКА Справочник.ФизическиеЛица
+  |				И Договор.УслугаНаселению В (&amp;УслугиДоговоров)) КАК СостояниеДоговораСрезПоследних
+  |ГДЕ
+  |	ВЫБОР
+  |			КОГДА СостояниеДоговораСрезПоследних.СостояниеДоговора В (ЗНАЧЕНИЕ(Перечисление.СостоянияДоговоров.Заключен), ЗНАЧЕНИЕ(Перечисление.СостоянияДоговоров.Пролонгирован))
+  |					И (СостояниеДоговораСрезПоследних.ДатаОкончания = ДАТАВРЕМЯ(1, 1, 1)
+  |						ИЛИ СостояниеДоговораСрезПоследних.ДатаОкончания &gt;= &amp;КонецУчетногоМесяц)
+  |				ТОГДА ИСТИНА
+  |			ИНАЧЕ ЛОЖЬ
+  |		КОНЕЦ = ИСТИНА
+  |	И ВЫРАЗИТЬ(СостояниеДоговораСрезПоследних.Договор.Владелец КАК Справочник.Абоненты).ВладелецЛС ССЫЛКА Справочник.ФизическиеЛица
+  |
+  |СГРУППИРОВАТЬ ПО
+  |	ВЫРАЗИТЬ(СостояниеДоговораСрезПоследних.Договор.Владелец КАК Справочник.Абоненты),
+  |	ВЫРАЗИТЬ(СостояниеДоговораСрезПоследних.Договор.Владелец КАК Справочник.Абоненты).ВладелецЛС
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Объект,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Значение,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.НаАкцепте,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.НеПриниматьКУчету,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.ДатаРегистрацииИзменения,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.УчетныйМесяц,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Период,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Регистратор
+  |ПОМЕСТИТЬ втНач
+  |ИЗ
+  |	РегистрСведений.ЗначенияОбщихПараметровАбонентовДляРасчета КАК ЗначенияОбщихПараметровАбонентовДляРасчета
+  |		ВНУТРЕННЕЕ СОЕДИНЕНИЕ ВТ_АбонентыСДействующимиДоговорами КАК ВТ_АбонентыСДействующимиДоговорами
+  |		ПО ЗначенияОбщихПараметровАбонентовДляРасчета.Объект = ВТ_АбонентыСДействующимиДоговорами.Абонент
+  |ГДЕ
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Период &lt;= &amp;КонецУчетногоМесяц
+  |	И ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр В (&amp;ОбщаяПлощадь, &amp;ЖилаяПлощадь, &amp;ОтапливаемаяПлощадь, &amp;КоличествоПроживающих)
+  |
+  |ИНДЕКСИРОВАТЬ ПО
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Объект,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр,
+  |	ЗначенияОбщихПараметровАбонентовДляРасчета.Период
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ
+  |	втНач.Объект,
+  |	втНач.Параметр,
+  |	втНач.Значение,
+  |	втНач.НаАкцепте,
+  |	втНач.НеПриниматьКУчету,
+  |	втНач.ДатаРегистрацииИзменения,
+  |	втНач.УчетныйМесяц,
+  |	втНач.Период,
+  |	втНач.Регистратор,
+  |	втНач.Период КАК ПериодДень
+  |ПОМЕСТИТЬ ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета
+  |ИЗ
+  |	втНач КАК втНач
+  |		ВНУТРЕННЕЕ СОЕДИНЕНИЕ (ВЫБРАТЬ
+  |			втНач.Объект КАК Объект,
+  |			втНач.Параметр КАК Параметр,
+  |			МАКСИМУМ(втНач.Регистратор) КАК Регистратор,
+  |			втНач.Период КАК Период,
+  |			втНач.ДатаРегистрацииИзменения КАК ДатаРегистрацииИзменения
+  |		ИЗ
+  |			втНач КАК втНач
+  |				ВНУТРЕННЕЕ СОЕДИНЕНИЕ (ВЫБРАТЬ
+  |					втНач.Объект КАК Объект,
+  |					втНач.Параметр КАК Параметр,
+  |					втНач.Период КАК Период,
+  |					МАКСИМУМ(втНач.ДатаРегистрацииИзменения) КАК ДатаРегистрацииИзменения
+  |				ИЗ
+  |					втНач КАК втНач
+  |				
+  |				СГРУППИРОВАТЬ ПО
+  |					втНач.Объект,
+  |					втНач.Параметр,
+  |					втНач.Период) КАК втДни2
+  |				ПО втНач.Период = втДни2.Период
+  |					И втНач.ДатаРегистрацииИзменения = втДни2.ДатаРегистрацииИзменения
+  |					И втНач.Объект = втДни2.Объект
+  |					И втНач.Параметр = втДни2.Параметр
+  |		
+  |		СГРУППИРОВАТЬ ПО
+  |			втНач.Объект,
+  |			втНач.Параметр,
+  |			втНач.Период,
+  |			втНач.ДатаРегистрацииИзменения) КАК втДни
+  |		ПО втНач.ДатаРегистрацииИзменения = втДни.ДатаРегистрацииИзменения
+  |			И втНач.Период = втДни.Период
+  |			И втНач.Регистратор = втДни.Регистратор
+  |			И втНач.Объект = втДни.Объект
+  |			И втНач.Параметр = втДни.Параметр
+  |ГДЕ
+  |	НЕ втНач.НеПриниматьКУчету
+  |
+  |ИНДЕКСИРОВАТЬ ПО
+  |	втНач.Объект,
+  |	втНач.Параметр,
+  |	втНач.Период
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |УНИЧТОЖИТЬ втНач
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ
+  |	ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект,
+  |	ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр,
+  |	ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Значение
+  |ПОМЕСТИТЬ СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета
+  |ИЗ
+  |	ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета КАК ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета
+  |		ВНУТРЕННЕЕ СОЕДИНЕНИЕ (ВЫБРАТЬ
+  |			ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект КАК Объект,
+  |			ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр КАК Параметр,
+  |			ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Период КАК Период,
+  |			МАКСИМУМ(ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Регистратор) КАК Регистратор
+  |		ИЗ
+  |			ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета КАК ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета
+  |				ВНУТРЕННЕЕ СОЕДИНЕНИЕ (ВЫБРАТЬ
+  |					ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект КАК Объект,
+  |					ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр КАК Параметр,
+  |					МАКСИМУМ(ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Период) КАК Период
+  |				ИЗ
+  |					ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета КАК ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета
+  |				
+  |				СГРУППИРОВАТЬ ПО
+  |					ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект,
+  |					ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр) КАК МаксПериод
+  |				ПО ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект = МаксПериод.Объект
+  |					И ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр = МаксПериод.Параметр
+  |					И ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Период = МаксПериод.Период
+  |		
+  |		СГРУППИРОВАТЬ ПО
+  |			ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект,
+  |			ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр,
+  |			ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Период) КАК МаксПериодРегистратор
+  |		ПО ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект = МаксПериодРегистратор.Объект
+  |			И ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр = МаксПериодРегистратор.Параметр
+  |			И ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Период = МаксПериодРегистратор.Период
+  |			И ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Регистратор = МаксПериодРегистратор.Регистратор
+  |
+  |ИНДЕКСИРОВАТЬ ПО
+  |	ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект,
+  |	ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ
+  |	ЕСТЬNULL(ФИОФизЛицСрезПоследних.Фамилия, """") КАК Фамилия,
+  |	ЕСТЬNULL(ФИОФизЛицСрезПоследних.Имя, """") КАК Имя,
+  |	ЕСТЬNULL(ФИОФизЛицСрезПоследних.Отчество, """") КАК Отчество,
+  |	ЕСТЬNULL(ПаспортныеДанныеФизЛицСрезПоследних.ДокументСерия, """") КАК СерияДокумента,
+  |	ЕСТЬNULL(ВЫРАЗИТЬ(ЗначенияСвойствОбъектовСрезПоследних.Значение КАК СТРОКА(14)), """") КАК СНИЛС,
+  |	ЕСТЬNULL(ВТ_АбонентыСДействующимиДоговорами.Абонент.Здание.ГУИД, """") КАК ГУИД_ФИАС,
+  |	ПаспортныеДанныеФизЛицСрезПоследних.ДокументВид.НаименованиеВСоответствииСЗаконодательством КАК ВидДокумента,
+  |	ЕСТЬNULL(ПаспортныеДанныеФизЛицСрезПоследних.ДокументНомер, """") КАК НомерДокумента,
+  |	ВЫРАЗИТЬ(ЕСТЬNULL(ПаспортныеДанныеФизЛицСрезПоследних.ДокументДатаВыдачи, """") КАК ДАТА) КАК ДатаДокумента,
+  |	0 КАК ОГРН,
+  |	0 КАК КПП,
+  |	СУММА(ВЫБОР
+  |			КОГДА СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр В (&amp;ОбщаяПлощадь)
+  |				ТОГДА ВЫРАЗИТЬ(СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Значение КАК ЧИСЛО)
+  |			ИНАЧЕ 0
+  |		КОНЕЦ) КАК ОбщаяПлощадь,
+  |	СУММА(ВЫБОР
+  |			КОГДА СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр В (&amp;ЖилаяПлощадь)
+  |				ТОГДА ВЫРАЗИТЬ(СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Значение КАК ЧИСЛО)
+  |			ИНАЧЕ 0
+  |		КОНЕЦ) КАК ЖилаяПлощадь,
+  |	СУММА(ВЫБОР
+  |			КОГДА СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр В (&amp;ОтапливаемаяПлощадь)
+  |				ТОГДА ВЫРАЗИТЬ(СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Значение КАК ЧИСЛО)
+  |			ИНАЧЕ 0
+  |		КОНЕЦ) КАК ОтапливаемаяПлощадь,
+  |	СУММА(ВЫБОР
+  |			КОГДА СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Параметр В (&amp;КоличествоПроживающих)
+  |				ТОГДА ВЫРАЗИТЬ(СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Значение КАК ЧИСЛО)
+  |			ИНАЧЕ 0
+  |		КОНЕЦ) КАК КоличествоПроживающих,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.ЛицевойСчет КАК НомерЛС,
+  |	ЛОЖЬ КАК ЯвлятсяНанимателем,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент КАК Абонент,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.Подразделения КАК Подразделение,
+  |	""ЛС РСО"" КАК ТипЛицевогоСчета
+  |ПОМЕСТИТЬ Вт_ГИСЖКХ_ЛС_ОсновныеСведения
+  |ИЗ
+  |	ВТ_АбонентыСДействующимиДоговорами КАК ВТ_АбонентыСДействующимиДоговорами
+  |		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.ПаспортныеДанныеФизЛиц.СрезПоследних(
+  |				,
+  |				ФизЛицо В
+  |					(ВЫБРАТЬ
+  |						ВТ_АбонентыСДействующимиДоговорами.ФизЛицо
+  |					ИЗ
+  |						ВТ_АбонентыСДействующимиДоговорами КАК ВТ_АбонентыСДействующимиДоговорами)) КАК ПаспортныеДанныеФизЛицСрезПоследних
+  |		ПО (ПаспортныеДанныеФизЛицСрезПоследних.ДокументВид В (&amp;ВидДокументаФизЛицаПаспорт))
+  |			И ВТ_АбонентыСДействующимиДоговорами.ФизЛицо = ПаспортныеДанныеФизЛицСрезПоследних.ФизЛицо
+  |		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.ФИОФизЛиц.СрезПоследних(
+  |				,
+  |				ФизЛицо В
+  |					(ВЫБРАТЬ
+  |						ВТ_АбонентыСДействующимиДоговорами.ФизЛицо
+  |					ИЗ
+  |						ВТ_АбонентыСДействующимиДоговорами КАК ВТ_АбонентыСДействующимиДоговорами)) КАК ФИОФизЛицСрезПоследних
+  |		ПО ВТ_АбонентыСДействующимиДоговорами.ФизЛицо = ФИОФизЛицСрезПоследних.ФизЛицо
+  |		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.ЗначенияСвойствОбъектов.СрезПоследних(
+  |				,
+  |				Объект ССЫЛКА Справочник.ФизическиеЛица
+  |					И Объект В
+  |						(ВЫБРАТЬ
+  |							ВТ_АбонентыСДействующимиДоговорами.ФизЛицо
+  |						ИЗ
+  |							ВТ_АбонентыСДействующимиДоговорами КАК ВТ_АбонентыСДействующимиДоговорами)
+  |					И Свойство = &amp;СвойствоСНИЛС) КАК ЗначенияСвойствОбъектовСрезПоследних
+  |		ПО ВТ_АбонентыСДействующимиДоговорами.ФизЛицо = ЗначенияСвойствОбъектовСрезПоследних.Объект
+  |		ЛЕВОЕ СОЕДИНЕНИЕ СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета КАК СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета
+  |		ПО ВТ_АбонентыСДействующимиДоговорами.Абонент = СП_ПКУ_ЗначенияОбщихПараметровАбонентовДляРасчета.Объект
+  |
+  |СГРУППИРОВАТЬ ПО
+  |	ЕСТЬNULL(ФИОФизЛицСрезПоследних.Фамилия, """"),
+  |	ЕСТЬNULL(ФИОФизЛицСрезПоследних.Имя, """"),
+  |	ЕСТЬNULL(ФИОФизЛицСрезПоследних.Отчество, """"),
+  |	ЕСТЬNULL(ПаспортныеДанныеФизЛицСрезПоследних.ДокументСерия, """"),
+  |	ЕСТЬNULL(ВЫРАЗИТЬ(ЗначенияСвойствОбъектовСрезПоследних.Значение КАК СТРОКА(14)), """"),
+  |	ЕСТЬNULL(ВТ_АбонентыСДействующимиДоговорами.Абонент.Здание.ГУИД, """"),
+  |	ПаспортныеДанныеФизЛицСрезПоследних.ДокументВид.НаименованиеВСоответствииСЗаконодательством,
+  |	ЕСТЬNULL(ПаспортныеДанныеФизЛицСрезПоследних.ДокументНомер, """"),
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.ЛицевойСчет,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.Подразделения,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент,
+  |	ВЫРАЗИТЬ(ЕСТЬNULL(ПаспортныеДанныеФизЛицСрезПоследних.ДокументДатаВыдачи, """") КАК ДАТА)
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ РАЗЛИЧНЫЕ
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.Код КАК Абонент,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.Здание.ВнешнийКлюч КАК АдресПомещения,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.Здание.ГУИД КАК КодДомаПоФИАС,
+  |	ЕСТЬNULL(КонтактнаяИнформация.Квартира, """""""") КАК НомерПомещения,
+  |	ЕСТЬNULL(КонтактнаяИнформация.Комната, """""""") КАК НомерКомнаты,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.ЛицевойСчет КАК НомерЛС,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент.Подразделения КАК Подразделение,
+  |	100 КАК ДоляВнесенияПлаты,
+  |	"""" КАК ИД_ГИСЖКХ,
+  |	ВТ_АбонентыСДействующимиДоговорами.Абонент КАК АбонентСсылка
+  |ПОМЕСТИТЬ Вт_ГИСЖКХ_ЛС_Помещение
+  |ИЗ
+  |	ВТ_АбонентыСДействующимиДоговорами КАК ВТ_АбонентыСДействующимиДоговорами
+  |		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.КонтактнаяИнформация КАК КонтактнаяИнформация
+  |		ПО ВТ_АбонентыСДействующимиДоговорами.Абонент = КонтактнаяИнформация.Объект
+  |			И (КонтактнаяИнформация.Объект ССЫЛКА Справочник.Абоненты)
+  |			И (КонтактнаяИнформация.ВидКонтактнойИнформации = &amp;ВидКонтактнойИнформацииАдресАбонента)
+  |;
+  |
+  |////////////////////////////////////////////////////////////////////////////////
+  |ВЫБРАТЬ
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.Фамилия,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.Имя,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.Отчество,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.СерияДокумента,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.СНИЛС,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ГУИД_ФИАС,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ВидДокумента,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.НомерДокумента,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ДатаДокумента,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ОГРН,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.КПП,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ОбщаяПлощадь,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ЖилаяПлощадь,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ОтапливаемаяПлощадь,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.КоличествоПроживающих,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.НомерЛС,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ЯвлятсяНанимателем,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.Подразделение,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.Абонент,
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения.ТипЛицевогоСчета
+  |ИЗ
+  |	Вт_ГИСЖКХ_ЛС_ОсновныеСведения КАК Вт_ГИСЖКХ_ЛС_ОсновныеСведения";
+  
+  Результат = Запрос.Выполнить().Выгрузить();</АлгоритмПолученияДанных>
+			<АлгоритмПолученияДанныхДляВыгрузкиВEXCEL>КонтекстВыполнения.ЗаписываемаяСтрока.ОбщаяПлощадь = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.ОбщаяПлощадь, "ЧРД='.'; ЧГ=''");
+КонтекстВыполнения.ЗаписываемаяСтрока.ЖилаяПлощадь = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.ЖилаяПлощадь, "ЧРД='.'; ЧГ=''");
+КонтекстВыполнения.ЗаписываемаяСтрока.ОтапливаемаяПлощадь = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.ОтапливаемаяПлощадь, "ЧРД='.'; ЧГ=''");
+КонтекстВыполнения.ЗаписываемаяСтрока.ОГРН = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.ОГРН, "ЧДЦ=''; ЧРД=''; ЧН=' '; ЧГ=''");
+КонтекстВыполнения.ЗаписываемаяСтрока.КПП = Формат(КонтекстВыполнения.ОбрабатываемаяСтрока.КПП, "ЧДЦ=''; ЧРД=''; ЧН=' '; ЧГ=''");
+КонтекстВыполнения.ЗаписываемаяСтрока.ЯвлятсяНанимателем = Строка(КонтекстВыполнения.ЗаписываемаяСтрока.ЯвлятсяНанимателем);
+КонтекстВыполнения.ЗаписываемаяСтрока.НомерЗаписиЛС = КонтекстВыполнения.ЗаписываемаяСтрока.НомерЛС;
+
+//Начиная с 9.0.2.1 
+//1.	Поле «Номер ЛС (иной идентификатор потребителя)» сделано необязательным; при отсутствии номера лицевого счета поле «Номер ЛС (иной идентификатор потребителя)» заполняется значением ЕЛС в Системе.
+//2.	Поиск ранее размещенного счета выполняется по колонке «Идентификатор ЖКУ».
+//В РНГ отсутствует структрура для хранения данных о "ИдентификаторЖКУ" но ИдентификаторЖКУ это ЕЛС + префикс услуги ("01" - Газ). 
+//Поэтому данное поле будет заполнятся при выгрузке а не при получении данных.
+
+//Сформируем КЭШ для быстрого поиска что бы не обращаться в цикле через "." Абонент.ИД_ГИСЖКХ
+КэшАбонентЕЛС=Неопределено;
+КонтекстВыполнения.Свойство("КэшАбонентЕЛС",КэшАбонентЕЛС);
+Если КэшАбонентЕЛС=Неопределено тогда
+	Запрос = Новый Запрос("ВЫБРАТЬ Абоненты.Ссылка КАК Ссылка, Абоненты.ИД_ГИСЖКХ как ИД_ГИСЖКХ ИЗ Справочник.Абоненты КАК Абоненты УПОРЯДОЧИТЬ ПО Ссылка");
+	КэшАбонентЕЛС = Запрос.Выполнить().Выгрузить();
+	КэшАбонентЕЛС.Индексы.Добавить("Ссылка");
+	КонтекстВыполнения.Вставить("КэшАбонентЕЛС",КэшАбонентЕЛС);
+КонецЕсли;
+
+КонтекстВыполнения.ЗаписываемаяСтрока.ИдентификаторЖКУ = Строка(КэшАбонентЕЛС.Найти(КонтекстВыполнения.ОбрабатываемаяСтрока.Абонент,"ССылка").ИД_ГИСЖКХ);
+КонтекстВыполнения.ЗаписываемаяСтрока.ИдентификаторЖКУ = КонтекстВыполнения.ЗаписываемаяСтрока.ИдентификаторЖКУ+?(КонтекстВыполнения.ЗаписываемаяСтрока.ИдентификаторЖКУ="","","-01");</АлгоритмПолученияДанныхДляВыгрузкиВEXCEL>
+			<АлгоритмПослеСравненияДанных/>
+			<АлгоритмПроверкиОшибок>Если Не КонтекстВыполнения.Свойство("СоответствиеВидовДокументов") Тогда
+	
+	СоответствиеВидовДокументов = Новый Соответствие;
+	СоответствиеВидовДокументов.Вставить("Паспорт гражданина Российской Федерации", "Паспорт гражданина Российской Федерации");
+	СоответствиеВидовДокументов.Вставить("Паспорт гражданина СССР", "Паспорт гражданина СССР");
+	СоответствиеВидовДокументов.Вставить("Паспорт гражданина иностранного государства", "Паспорт гражданина иностранного государства");
+	СоответствиеВидовДокументов.Вставить("Общегражданский заграничный паспорт", "Общегражданский заграничный паспорт");
+	СоответствиеВидовДокументов.Вставить("Заграничный паспорт Министерства морского флота", "Заграничный паспорт Министерства морского флота");
+	СоответствиеВидовДокументов.Вставить("Дипломатический паспорт", "Дипломатический паспорт");
+	СоответствиеВидовДокументов.Вставить("Паспорт моряка (удостоверение личности моряка)", "Паспорт моряка (удостоверение личности моряка)");
+	СоответствиеВидовДокументов.Вставить("Военный билет военнослужащего", "Военный билет военнослужащего");
+	СоответствиеВидовДокументов.Вставить("Временное удостоверение, выданное взамен военного билета", "Временное удостоверение, выданное взамен военного билета");
+	СоответствиеВидовДокументов.Вставить("Удостоверение личности офицера Министерства обороны Российской Федерации, Министерства внутренних дел Российской Федерации и других воинских формирований с приложением справки о прописке (регистрации) Ф-33", "Удостоверение личности офицера Министерства обороны Российской Федерации, Министерства внутренних дел Российской Федерации и других воинских формирований с приложением справки о прописке (регистрации) Ф-33");
+	СоответствиеВидовДокументов.Вставить("Свидетельство о рождении", "Свидетельство о рождении");
+	СоответствиеВидовДокументов.Вставить("Свидетельство о рассмотрении ходатайства о признании беженцем на территории Российской Федерации по существу", "Свидетельство о рассмотрении ходатайства о признании беженцем на территории Российской Федерации по существу");
+	СоответствиеВидовДокументов.Вставить("Вид на жительство иностранного гражданина или лица без гражданства", "Вид на жительство иностранного гражданина или лица без гражданства");
+	СоответствиеВидовДокументов.Вставить("Справка об освобождении из мест лишения свободы", "Справка об освобождении из мест лишения свободы");
+	СоответствиеВидовДокументов.Вставить("Временное удостоверение личности гражданина Российской Федерации", "Временное удостоверение личности гражданина Российской Федерации");
+	СоответствиеВидовДокументов.Вставить("Удостоверение вынужденного переселенца", "Удостоверение вынужденного переселенца");
+	СоответствиеВидовДокументов.Вставить("Разрешение на временное проживание в Российской Федерации", "Разрешение на временное проживание в Российской Федерации");
+	СоответствиеВидовДокументов.Вставить("Удостоверение беженца в Российской Федерации", "Удостоверение беженца в Российской Федерации");
+	СоответствиеВидовДокументов.Вставить("Свидетельство о рассмотрении ходатайства о признании лица вынужденным переселенцем", "Свидетельство о рассмотрении ходатайства о признании лица вынужденным переселенцем");
+	СоответствиеВидовДокументов.Вставить("Свидетельство о предоставлении временного убежища на территории Российской Федерации", "Свидетельство о предоставлении временного убежища на территории Российской Федерации");
+	СоответствиеВидовДокументов.Вставить("Иные документы, предусмотренные законодательством Российской Федерации или признаваемые в соответствии с международным договором Российской Федерации в качестве документов, удостоверяющих личность", "Иные документы, предусмотренные законодательством Российской Федерации или признаваемые в соответствии с международным договором Российской Федерации в качестве документов, удостоверяющих личность");
+
+	КонтекстВыполнения.Вставить("СоответствиеВидовДокументов", СоответствиеВидовДокументов);
+	
+КонецЕсли;
+
+Если (ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.НомерДокумента) ИЛИ ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.СерияДокумента))
+	И Не ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.ВидДокумента) Тогда
+	
+	ЗарегистрироватьОшибкуПоКонтексту(КонтекстВыполнения, "ВидДокумента", "Ошибка заполнения", "Не указан вид документа удостоверяющего личность", ,"Абонент");
+	
+КонецЕсли;
+
+Если (ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.ВидДокумента) ИЛИ ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.СерияДокумента))
+	И Не ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.НомерДокумента) Тогда
+	
+	ЗарегистрироватьОшибкуПоКонтексту(КонтекстВыполнения, "НомерДокумента", "Ошибка заполнения", "Не указан номер документа удостоверяющего личность",  ,"Абонент");
+	
+КонецЕсли;
+
+Если (ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.ВидДокумента) ИЛИ ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.НомерДокумента))
+	И Не ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.СерияДокумента) Тогда
+	
+	ЗарегистрироватьОшибкуПоКонтексту(КонтекстВыполнения, "СерияДокумента", "Ошибка заполнения", "Не указана серия документа удостоверяющего личность",  ,"Абонент");
+	
+КонецЕсли;
+
+Если ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.ВидДокумента) Тогда
+	
+	Если КонтекстВыполнения.СоответствиеВидовДокументов.Получить(КонтекстВыполнения.ВыборкаПоСтроке.ВидДокумента) = Неопределено Тогда
+		
+		ЗарегистрироватьОшибкуПоКонтексту(КонтекстВыполнения, "ВидДокумента", "Ошибка заполнения", "Указано неправильное значение",  ,"Абонент");
+		
+	КонецЕсли;
+	
+КонецЕсли;</АлгоритмПроверкиОшибок>
+			<АлгоритмСравненияДанных/>
+			<ИмяРегистраДляГИСЖКХ>ГИСЖКХ_ЛС_ОсновныеСведения</ИмяРегистраДляГИСЖКХ>
+			<НаименованиеЛистаВФайле>Основные сведения</НаименованиеЛистаВФайле>
+			<НачальнаяСтрокаXLS>3</НачальнаяСтрокаXLS>
+			<ПорядокЗаполнения>1</ПорядокЗаполнения>
+			<ИмяПоляОбъекта>Абонент</ИмяПоляОбъекта>
+			<ИмяРеквизита/>
+			<НомерКолонкиИДВерсииОбъектаВГИСЖКХ>0</НомерКолонкиИДВерсииОбъектаВГИСЖКХ>
+			<ИспользоватьАльтернативныйСпособВыгрузки>false</ИспользоватьАльтернативныйСпособВыгрузки>
+			<СоответствиеПолей>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Подразделение</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Абонент</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>НомерЛС</ПолеРегистра>
+					<КолонкаШаблона>2</КолонкаШаблона>
+					<КлючевоеПоле>true</КлючевоеПоле>
+					<КлючЗависимости>true</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ТипЛицевогоСчета</ПолеРегистра>
+					<КолонкаШаблона>4</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ЯвлятсяНанимателем</ПолеРегистра>
+					<КолонкаШаблона>5</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Фамилия</ПолеРегистра>
+					<КолонкаШаблона>6</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Имя</ПолеРегистра>
+					<КолонкаШаблона>7</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Отчество</ПолеРегистра>
+					<КолонкаШаблона>8</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>СНИЛС</ПолеРегистра>
+					<КолонкаШаблона>9</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ВидДокумента</ПолеРегистра>
+					<КолонкаШаблона>10</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>НомерДокумента</ПолеРегистра>
+					<КолонкаШаблона>11</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>СерияДокумента</ПолеРегистра>
+					<КолонкаШаблона>12</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ДатаДокумента</ПолеРегистра>
+					<КолонкаШаблона>13</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ОГРН</ПолеРегистра>
+					<КолонкаШаблона>14</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>КПП</ПолеРегистра>
+					<КолонкаШаблона>15</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ОбщаяПлощадь</ПолеРегистра>
+					<КолонкаШаблона>16</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ЖилаяПлощадь</ПолеРегистра>
+					<КолонкаШаблона>17</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ОтапливаемаяПлощадь</ПолеРегистра>
+					<КолонкаШаблона>18</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>КоличествоПроживающих</ПолеРегистра>
+					<КолонкаШаблона>19</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+			</СоответствиеПолей>
+			<КолонкиРезультата>
+				<Row>
+					<НомерКолонки>21</НомерКолонки>
+					<ИмяКолонки>СтатусОбработки</ИмяКолонки>
+				</Row>
+				<Row>
+					<НомерКолонки>20</НомерКолонки>
+					<ИмяКолонки>ЕдиныйЛицевойСчет</ИмяКолонки>
+				</Row>
+			</КолонкиРезультата>
+			<ЗависимыеЛисты>
+				<Row>
+					<ЗависимыйЛист>88600459-e567-44ce-8616-058c54d22ec8</ЗависимыйЛист>
+				</Row>
+			</ЗависимыеЛисты>
+			<ДополнительныеПоля>
+				<Row>
+					<ИмяКолонкиШаблона>НомерЗаписиЛС</ИмяКолонкиШаблона>
+					<НомерКолонкиШаблона>1</НомерКолонкиШаблона>
+				</Row>
+				<Row>
+					<ИмяКолонкиШаблона>ИдентификаторЖКУ</ИмяКолонкиШаблона>
+					<НомерКолонкиШаблона>3</НомерКолонкиШаблона>
+				</Row>
+			</ДополнительныеПоля>
+		</CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+		<CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+			<Ref>88600459-e567-44ce-8616-058c54d22ec8</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>dddfb8a6-fbff-47b9-829d-c2d926b69f86</Parent>
+			<Code>000000027</Code>
+			<Description>Помещения</Description>
+			<АлгоритмАнализаРезультатаОбработки>88600459-e567-44ce-8616-058c54d22ec8|uid|АлгоритмАнализаРезультатаОбработки_ИнициализироватьРезультатКонтекста(КонтекстВыполнения);</АлгоритмАнализаРезультатаОбработки>
+			<АлгоритмОбработкиКолонкиПередЗаписью/>
+			<АлгоритмПолученияДанных>Запрос = Новый Запрос;
+Запрос.МенеджерВременныхТаблиц = КонтекстВыполнения.МенеджерВременныхТаблиц; 
+
+
+Запрос.Текст = "
+|ВЫБРАТЬ
+|	Вт_ГИСЖКХ_ЛС_Помещение.Абонент,
+|	Вт_ГИСЖКХ_ЛС_Помещение.АбонентСсылка,
+|	Вт_ГИСЖКХ_ЛС_Помещение.АдресПомещения,
+|	Вт_ГИСЖКХ_ЛС_Помещение.КодДомаПоФИАС,
+|	Вт_ГИСЖКХ_ЛС_Помещение.НомерПомещения,
+|	Вт_ГИСЖКХ_ЛС_Помещение.НомерКомнаты,
+|	Вт_ГИСЖКХ_ЛС_Помещение.НомерЛС,
+|	Вт_ГИСЖКХ_ЛС_Помещение.Подразделение,
+|	Вт_ГИСЖКХ_ЛС_Помещение.ДоляВнесенияПлаты,
+|	Вт_ГИСЖКХ_ЛС_Помещение.ИД_ГИСЖКХ
+|ИЗ
+|	Вт_ГИСЖКХ_ЛС_Помещение КАК Вт_ГИСЖКХ_ЛС_Помещение";
+
+
+Результат = Запрос.Выполнить().Выгрузить();</АлгоритмПолученияДанных>
+			<АлгоритмПолученияДанныхДляВыгрузкиВEXCEL/>
+			<АлгоритмПослеСравненияДанных/>
+			<АлгоритмПроверкиОшибок>Если Не ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.ИД_ГИСЖКХ) Тогда
+		
+	// Проверю на заполнение группу поле Адрес, помещение, комната
+	Если Не ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.КодДомаПоФИАС) Тогда			
+		ЗарегистрироватьОшибкуПоКонтексту(КонтекстВыполнения, "КодДомаПоФИАС", "Ошибка заполнения", "Не заполнено поле КодДомаПоФИАС", "Необходимо заполнить идентификатор ГИС ЖКХ, либо указать данные дома по ФИАС", "АбонентССылка");
+	КонецЕсли;
+	//Если Не ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.НомерПомещения) Тогда			
+	//	ЗарегистрироватьОшибкуПоКонтексту(КонтекстВыполнения, "НомерПомещения", "Ошибка заполнения", "Не заполнено поле НомерПомещения", "Необходимо заполнить идентификатор ГИС ЖКХ, либо указать данные дома по ФИАС");
+	//КонецЕсли;
+	//Если Не ЗначениеЗаполнено(КонтекстВыполнения.ВыборкаПоСтроке.НомерКомнаты) Тогда			
+	//	ЗарегистрироватьОшибкуПоКонтексту(КонтекстВыполнения, "НомерКомнаты", "Ошибка заполнения", "Не заполнено поле НомерКомнаты", "Необходимо заполнить идентификатор ГИС ЖКХ, либо указать данные дома по ФИАС");
+	//КонецЕсли;
+	
+КонецЕсли;</АлгоритмПроверкиОшибок>
+			<АлгоритмСравненияДанных/>
+			<ИмяРегистраДляГИСЖКХ>ГИСЖКХ_ЛС_Помещение</ИмяРегистраДляГИСЖКХ>
+			<НаименованиеЛистаВФайле>Помещение</НаименованиеЛистаВФайле>
+			<НачальнаяСтрокаXLS>3</НачальнаяСтрокаXLS>
+			<ПорядокЗаполнения>2</ПорядокЗаполнения>
+			<ИмяПоляОбъекта/>
+			<ИмяРеквизита/>
+			<НомерКолонкиИДВерсииОбъектаВГИСЖКХ>0</НомерКолонкиИДВерсииОбъектаВГИСЖКХ>
+			<ИспользоватьАльтернативныйСпособВыгрузки>false</ИспользоватьАльтернативныйСпособВыгрузки>
+			<СоответствиеПолей>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Подразделение</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>Абонент</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>АбонентССылка</ПолеРегистра>
+					<КолонкаШаблона>0</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>true</ОбязательноДляЗаполнения>
+					<ПолеРегистра>НомерЛС</ПолеРегистра>
+					<КолонкаШаблона>1</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>true</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>АдресПомещения</ПолеРегистра>
+					<КолонкаШаблона>2</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>КодДомаПоФИАС</ПолеРегистра>
+					<КолонкаШаблона>3</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>НомерПомещения</ПолеРегистра>
+					<КолонкаШаблона>4</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>НомерКомнаты</ПолеРегистра>
+					<КолонкаШаблона>5</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ИД_ГИСЖКХ</ПолеРегистра>
+					<КолонкаШаблона>6</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+				<Row>
+					<ОбязательноДляЗаполнения>false</ОбязательноДляЗаполнения>
+					<ПолеРегистра>ДоляВнесенияПлаты</ПолеРегистра>
+					<КолонкаШаблона>7</КолонкаШаблона>
+					<КлючевоеПоле>false</КлючевоеПоле>
+					<КлючЗависимости>false</КлючЗависимости>
+				</Row>
+			</СоответствиеПолей>
+			<КолонкиРезультата>
+				<Row>
+					<НомерКолонки>8</НомерКолонки>
+					<ИмяКолонки>СтатусОбработки</ИмяКолонки>
+				</Row>
+			</КолонкиРезультата>
+			<ЗависимыеЛисты>
+				<Row>
+					<ЗависимыйЛист>662c252c-355b-46dd-bc53-9082ab2a8236</ЗависимыйЛист>
+				</Row>
+			</ЗависимыеЛисты>
+			<ДополнительныеПоля/>
+		</CatalogObject.НастройкиВыгрузкиВГИСЖКХ>
+	</V8Exch:Data>
+</V8Exch:_1CV8DtUD>
